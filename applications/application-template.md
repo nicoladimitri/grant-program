@@ -2,20 +2,26 @@
 
 ## Project Overview 
 
-- Project: The name of the project
-- Team Name: Legal name of your team 
+- Project: The name of the project  "The Economics of VeChain"
+- Team Name: (Nicola Dimitri) I will be the only team member
+- Professor of Economics, Department of Political Economy and statistics, University of Siena, Piazza San Francesco 7, 53100 Siena-Italy. For completeness below I insert my CV from which you can evince my profile and experience. As you can see, my main recent research interests are in game theory, auctions and their applications, blockchain and cryptocurrencies. For your perusal, in the CV I highlighted in yellow the activities/publications which are closer to the blockchain/cryptocurrencies fields. I would also like to add that I’m recently being involved in other blockchain based-projects, not yet included in the CV.  
+Let me also notice I am currently Associate Editor of the journals “Frontiers in Blockchain” and “IET Blockchain”.  
+
 - Payment Address: USDT (ERC 20) payment address. We don't accept payments for the program in other currencies at this stage.
 
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+
+352VQpTpmYft2MBcvy2wQp9utx9dj4RRYX
+
 
 ### Overview
 
-Please provide the following:
-- A brief description of the project.
-- An indication of why your team is interested in creating this project within the VeChain Ecosystem.
-- If relevant, an indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project. 
+
+Project title “The Economics of VeChain” The project aims to explore in details the economic aspects of the double (token) currency VET and VTHO in the Proof-of-Authority (PoA) based VeChain platform. From an economic perspective I find the VeChain monetary system particularly interesting since it bears some similarity, for example, to economic systems with one legal currency circulating together with another, non-legal, currency which is adopted by the population for price stability reasons. In particular, in the project I would set up an economic model where the preferences of a representative agent for holding the two currencies, and obtaining rewards, are considered. The analysis would provide insights for understanding the dynamics of the main variables of double currency system.        
 
 ### Project Details
+
+****
+
 
 We expect the teams to already have a solid idea about the project's expected final state.
 Therefore, we ask the teams to submit (where relevant):
