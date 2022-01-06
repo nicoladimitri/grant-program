@@ -129,10 +129,10 @@ Education
  
 Academic Positions 
   
-2002 Full Professor of Economics, University of Siena 
-2000 Associate Professor of Economics, University of Siena 
-1999 Associate Professor of Economics, University of Chieti-Pescara 
-1991 Assistant Professor of Economics, University of Siena  
+2002 Full Professor of Economics, University of Siena, Italy
+2000 Associate Professor of Economics, University of Siena, Italy
+1999 Associate Professor of Economics, University of Chieti-Pescara, Italy 
+1991 Assistant Professor of Economics, University of Siena, Italy
  
  
  
