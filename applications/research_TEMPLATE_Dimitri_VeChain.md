@@ -66,6 +66,11 @@ These are the proposed milestones
 
 ## Budget
 
-A detailed budget should be provided to justify the requested fund. Please note that funding for each research project will be capped at 30,000 USD. 
+
+The budget requested if 30.000$. This is because I plan to dedicate about 60 days of work to the paper, over the year long project. Considering that for academic, scientific, work on average I’m paid a daily rate of about 450€ (roughly 500$) this explains my request.
+My proposal would be to split the payment, over the three milestones, according to the following criterion:
+1)	12000$ at the beginning
+2)	9000$ upon approval of the first draft of the paper
+3)	9000$ upon approval of the final version of the paper
 
 ## References
