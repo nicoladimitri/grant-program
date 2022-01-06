@@ -51,11 +51,18 @@ I plan to adopt in the analysis a rather diffused approach (in the economic lite
 
 ### Risks
 
-Discussion about the possible risks during the research process and their consequences.
+The study will be based on economic (mathematical) models, and so no particular risks are expected. 
 
 ## Milestones
 
-The applicants should define multiple milestones together with the budget and the expected outcome of each milestone. The outcome may, for instance, be a prototype system, proof-of-concept, scientific paper, technical report, etc. Note that the grant will be disbursed step-by-step according to the budget of each milestone as explained in the [Application Process](https://github.com/vechain/grant-program#application-process).
+These are the proposed milestones
+
+1)	Upon approval, the project will start at an agreed upon date.
+
+2)	Presentation, possibly in a seminar, of the draft of the paper for comments (after 6 months from the start) 
+
+3)	Final version of the paper (after 1 year from the start)
+
 
 ## Budget
 
