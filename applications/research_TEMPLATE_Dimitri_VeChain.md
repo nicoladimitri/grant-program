@@ -31,11 +31,17 @@ List no more than five keywords that are closely related to the research.
 ### Problem Statement
 
 
-Based on  Chapter 4 of the VeChain White paper “The Economic Model”, the project aims to produce one paper to study in details the economics aspects of the double-token (currency), VET and VTHO, Proof-of- Authority based VeChain system. In particular, by explicitly introducing a representative agent’s preferences for holding the tokens, and obtaining rewards, the work will provide potentially interesting insights on the VeChain dynamics of the main monetary variables. For this reason, I believe that the outcome of the analysis could offer to the platform users, and governors, a fruitful perspective on how the system may evolve over time from an economic point of view. Possibly, this could also be of support for policy decision making concerning the platform.  
+Based on  Chapter 4 of the VeChain White paper “The Economic Model”, the project aims to produce one paper to study in details the economics aspects of the double-token (currency), VET and VTHO, Proof-of- Authority based VeChain system. In particular, by explicitly introducing a representative agent’s preferences for holding the tokens, and obtaining rewards, the work will provide potentially interesting insights on the dynamics of the main VeChain monetary variables. For this reason, I believe that the outcome of the analysis could offer to the platform users, and governors, a fruitful perspective on how the system may evolve over time from an economic point of view. Possibly, this could also be of support for policy decision making concerning the platform.  
 
 ### Contributions
 
+To my knowledge, the paper would be the first contribution with a rigorous economic analysis of the VeChain system, studying how the main economic variable are determined and how they may evolve with time.   
+
 ### Background
+
+
+The reference background is the economic literature on monetary economies, however now applied to the specific features of the double-token PoA based VeChain platform. Though refererring to Proof of Stake based platforms, this recently published paper of mine https://www.frontiersin.org/articles/10.3389/fbloc.2021.443966/full provides some indications on the type of economic modelling that I intend to work with.       
+
 
 ### Approach
 
