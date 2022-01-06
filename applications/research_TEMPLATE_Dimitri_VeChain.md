@@ -4,9 +4,9 @@
    The Economics of VeChain
 
 ## Applicants
-(Mr) Nicola Dimitri (the only applicant) 
+(Mr) Nicola Dimitri (the only applicant)  https://docenti.unisi.it/en/nicoladimitri
 
-Professor of Economics, Department of Economics and Statistics, University of Siena, Piazza San Francesco 7, 53100 Siena-Italy. For completeness below I insert my CV from which you can evince my profile and experience. As you can see, my main recent research interests are in game theory, auctions and their applications, blockchain and cryptocurrencies. For your perusal, in the CV I highlighted in yellow the activities/publications which are closer to the blockchain/cryptocurrencies fields. I would also like to add that I’m recently being involved in other blockchain based-projects, not yet included in the CV.  
+Professor of Economics, Department of Economics and Statistics www.deps.unisi.it, University of Siena www.unisi.it, Piazza San Francesco 7, 53100 Siena-Italy. For completeness below I insert my CV from which you can evince my profile and experience. As you can see, my main recent research interests are in game theory, auctions and their applications, blockchain and cryptocurrencies. For your perusal, in the CV I highlighted in yellow the activities/publications which are closer to the blockchain/cryptocurrencies fields. I would also like to add that I’m recently being involved in other blockchain based-projects, not yet included in the CV.  
 Let me also notice I am currently Associate Editor of the journals “Frontiers in Blockchain” and “IET Blockchain”.  
 
 ## Payment Address
@@ -15,7 +15,7 @@ Let me also notice I am currently Associate Editor of the journals “Frontiers 
 
 ## Summary
 
-The project will consist of one paper where I aim to explore in details the economic implications of the two (currencies) tokens, VET and VTHO, in the Proof-of-Authority (PoA) based VeChain platform. From an economic perspective I find the VeChain monetary system particularly interesting since it exhibits some similarity, for example, to economic systems with one legal currency circulating together with another, non-legal, currency which is adopted by the population for price stability reasons. In particular, in the project I would set up an economic model where the preferences of a representative agent for holding the two currencies, and obtaining rewards, are considered. The analysis should provide insights for a better understanding of the main variables' dynamics in the double token VeChain platform.       
+The project will consist of one paper where I aim to explore in details the economic implications of the two (currencies) tokens, VET and VTHO, in the Proof-of-Authority (PoA) based VeChain platform. From an economic perspective I find the VeChain monetary system particularly interesting since it exhibits some similarity, for example, to countries where there is one legal currency circulating together with another, non-legal, currency which is adopted by the population for price stability reasons. In particular, in the project I would set up an economic model where the preferences of a representative agent for holding the two currencies, and obtaining rewards, are considered. The analysis should provide insights for a better understanding of the main variables' dynamics in the double token VeChain platform.       
 
 ### Main field of research
 
@@ -23,7 +23,7 @@ Economical models / Incentive mechanisms / Governance
 
 ### Keywords
 
-List no more than five keywords that are closely related to the research.
+Two-token economy; dynamics of VeChain monetary variables
 
 ## Research proposal (main body)
 
@@ -44,6 +44,11 @@ The reference background is the economic literature on monetary economies, howev
 
 
 ### Approach
+
+
+I plan to adopt in the analysis a rather diffused approach (in the economic literature) to the study of dynamic economic systems, the one based on the so called  "representative agent" (RA). Such an approach has advantages abut also limitations. As for its merits, the approach allows to capture in an accessible way some of the main economic elements driving the system. As for its limitations, the importance of users’ heterogeneity can be partly lost since the model is considering, as a first step, an average agent to study the entire system. The RA approach is typically based on an explicit formulation of the agent's preferences, represented by the utility function U. In particular, for the VeChain analysis, it will be interesting to study the following, fundamental, trade off faced by VeChain users. The larger the ampount of VET in one's wallet the more the user could affect governance decisions, but the lower is the number of VET available to implement transactions and smart contracts. To model such trade off the utility function of RA would contain as arguments the amount of VET held in the wallet, as well the amount of VTHO demanded. That is: U(VET,VTHO)         
+   
+
 
 The approach to conduct the research, also reasoning about the viability of this approach, e.g., the applicants have conducted similar research or used similar approaches before.
 
