@@ -75,8 +75,21 @@ My proposal would be to split the payment, over the three milestones, according 
 
 ## References
 
-The following list of papers are drawn from my CV, as my publications strictly related to blockchain and cryptocurrencies
+The following are two standard references on the representative agent approach
 
+Blanchard O. Fisher S., Lectures in Macroeconomics, MIT Press (1989)
+Romer D., Advanced Macroeconomics (4th Ed), McGrawHill (2012)
+
+This is a standard references for the game theory part of the paper
+
+Osborne M., Rubinstein (1994) A Course on Game Theory, MIT Press
+
+This list of papers is drawn from my CV, as my publications strictly related to blockchain and cryptocurrencies
+
+Coordination in an EMAIL Game without “Almost Common Knowledge: Journal of Logic, Language and Information 12, 1-11 (2003).  
+Correlated Communication;  in “Cognitive Processes and Economic Behavior” (Dimitri-
+Basili-Gilboa eds), Routledge-London (2003) 
+Efficiency and Equilibrium in the EMAIL Game; The General Case : Theoretical Computer Science, 314, 335-349, (2003)
 Bitcoin Mining as a Contest, Ledger, 2, 31-37 (2017) 
 The Blockchain Technology; Some Theory and Applications, Maastricht School of Management Working Paper, 2017/3 (2017) 
 Transaction Fees, Block Size Limit and Auctions in Bitcoin, Ledger, 4, 68-81, (2019) 
