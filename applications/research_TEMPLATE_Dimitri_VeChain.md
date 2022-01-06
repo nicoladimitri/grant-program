@@ -1,6 +1,7 @@
 # VeChain grant research proposal template
 
-## Title
+## TITLE
+   The economics of VeChain
 
 ## Applicants
 
