@@ -15,7 +15,7 @@ Let me also notice I am currently Associate Editor of the journals “Frontiers 
 
 ## Summary
 
-The project will consist of one paper where I aim to explore in details the economic implications of the two (currencies) tokens, VET and VTHO, in the Proof-of-Authority (PoA) based VeChain platform. From an economic perspective I find the VeChain monetary system particularly interesting since it exhibits some similarity, for example, to economic systems with one legal currency circulating together with another, non-legal, currency which is adopted by the population for price stability reasons. In particular, in the project I would set up an economic model where the preferences of a representative agent for holding the two currencies, and obtaining rewards, are considered. The analysis would provide insights for understanding the dynamics of the main variables of double currency system.        
+The project will consist of one paper where I aim to explore in details the economic implications of the two (currencies) tokens, VET and VTHO, in the Proof-of-Authority (PoA) based VeChain platform. From an economic perspective I find the VeChain monetary system particularly interesting since it exhibits some similarity, for example, to economic systems with one legal currency circulating together with another, non-legal, currency which is adopted by the population for price stability reasons. In particular, in the project I would set up an economic model where the preferences of a representative agent for holding the two currencies, and obtaining rewards, are considered. The analysis would provide insights for understanding the dynamics of the main variables of double currency system.       $3x+4$ 
 
 ### Main field of research
 
