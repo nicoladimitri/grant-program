@@ -4,19 +4,18 @@
    The Economics of VeChain
 
 ## Applicants
+(Mr) Nicola Dimitri (the only applicant) 
 
-Please include here information about all (co-)applicants, with names, affiliations, scientific background, and any information related to the merits of the applicants for the research. In case there are multiple applicants, it should be clearly stated that who is the corresponding applicant. The corresponding applicant will take primary responsibility for the project, e.g., managing the progress of the project, communicating with VeChain foundation, and in charge of the budget distribution.
-
-CVs of the applicants should also be included, either in the end of this proposal or in a separate file.
+Professor of Economics, Department of Economics and Statistics, University of Siena, Piazza San Francesco 7, 53100 Siena-Italy. For completeness below I insert my CV from which you can evince my profile and experience. As you can see, my main recent research interests are in game theory, auctions and their applications, blockchain and cryptocurrencies. For your perusal, in the CV I highlighted in yellow the activities/publications which are closer to the blockchain/cryptocurrencies fields. I would also like to add that I’m recently being involved in other blockchain based-projects, not yet included in the CV.  
+Let me also notice I am currently Associate Editor of the journals “Frontiers in Blockchain” and “IET Blockchain”.  
 
 ## Payment Address
-A USDT (ERC 20) payment address should be provided. We don't accept payments for the program in other currencies at this stage. 
 
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+"352VQpTpmYft2MBcvy2wQp9utx9dj4RRYX"
 
 ## Summary
 
-It is recommended that the summary be less than 300 words.
+The project will consist of one paper where I aim to explore in details the economic aspects of the double (currency) token, VET and VTHO, economic community in the Proof-of-Authority (PoA) based VeChain platform. From an economic perspective I find the VeChain monetary system particularly interesting since it exhibits some similarity, for example, to economic systems with one legal currency circulating together with another, non-legal, currency which is adopted by the population for price stability reasons. In particular, in the project I would set up an economic model where the preferences of a representative agent for holding the two currencies, and obtaining rewards, are considered. The analysis would provide insights for understanding the dynamics of the main variables of double currency system.        
 
 ### Main field of research
 
