@@ -27,16 +27,11 @@ List no more than five keywords that are closely related to the research.
 
 ## Research proposal (main body)
 
-The applicants may use any preferred structure to state this part as clear as possible. It is recommended for the applicant to include the following parts.
 
 ### Problem Statement
 
 
-Based on  Chapter 4 of the VeChain White paper “The Economic Model”, the project aims to produce one paper to study in details the economics aspects of the double-token (currency), VET and VTHO, Proof-of- Authority based VeChain system. In particular, by explicitly introducing a representative agent’s preferences for holding the currencies and obtaining rewards, the work will provide potentially interesting insights on the VeChain dynamics of the main monetary variables. For this reason, I believe that the outcome of the analysis could offer to the platform users, and governors, a fruitful perspective on how the system may evolve over time from an economic point of view. Possibly, this could also be of support for policy decision making concerning the platform.              
-The applicants should clearly describe the research problem to be tackled and why the problem is significant for VeChain and its ecosystem.
-
-
-The applicants should clearly describe the research problem to be tackled and why the problem is significant for VeChain and its ecosystem.
+Based on  Chapter 4 of the VeChain White paper “The Economic Model”, the project aims to produce one paper to study in details the economics aspects of the double-token (currency), VET and VTHO, Proof-of- Authority based VeChain system. In particular, by explicitly introducing a representative agent’s preferences for holding the tokens, and obtaining rewards, the work will provide potentially interesting insights on the VeChain dynamics of the main monetary variables. For this reason, I believe that the outcome of the analysis could offer to the platform users, and governors, a fruitful perspective on how the system may evolve over time from an economic point of view. Possibly, this could also be of support for policy decision making concerning the platform.  
 
 ### Contributions
 
