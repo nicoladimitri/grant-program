@@ -74,3 +74,13 @@ My proposal would be to split the payment, over the three milestones, according 
 3)	9000$ upon approval of the final version of the paper
 
 ## References
+
+The following list of papers are drawn from my CV, as my publications strictly related to blockchain and cryptocurrencies
+
+Bitcoin Mining as a Contest, Ledger, 2, 31-37 (2017) 
+The Blockchain Technology; Some Theory and Applications, Maastricht School of Management Working Paper, 2017/3 (2017) 
+Transaction Fees, Block Size Limit and Auctions in Bitcoin, Ledger, 4, 68-81, (2019) 
+Monetary Dynamics with “Proof of Stake”, Frontiers in Blockchain doi: 10.3389/fbloc.2021.443966 (2021)
+Consensus: Proof of Work, Proof of Stake and Structural Alternatives, in Enabling the Internet of Value, (Tasca P.-Vadgama N. eds) forthcoming Springer Verlag, (2022)
+
+Below I inserted my CV, where I underlined those activies/works, which are more closely related to the blockchain/cryptocurrencies area 
